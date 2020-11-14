@@ -90,7 +90,7 @@ video{
 }
 .videocap{
 	text-align:left;
-	padding:10px, 200px, 0px, 200px;
+	padding:10px, 200px, 0px, 100px;
 }
 @media(max-width: 768px;){
 	.aboutme{
