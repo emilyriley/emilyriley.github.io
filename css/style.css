@@ -88,8 +88,8 @@ video{
 	text-align: center;
 }
 .videocap{
-	text-align:center;
-	padding:10px, 0px, 0px, 0px;
+	text-align:left;
+	padding:10px, 200px, 0px, 200px;
 }
 @media(max-width: 768px;){
 	.aboutme{
