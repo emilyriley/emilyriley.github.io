@@ -99,10 +99,13 @@ video{
 	}
 	.aboutmehead{
 		text-align:center;
-		padding:5px 0px 5px 50px;
+		padding:5px 0px 5px 0px;
 	}
 	.video{
 		width:50%;
+	}
+	h3{
+		text-transform:center;
 	}
 
 }
@@ -114,9 +117,12 @@ video{
 	}
 	.aboutmehead{
 		text-align:center;
-		padding:5px 0px 5px 75px;
+		padding:5px 0px 5px 0px;
 	}
 	.video{
 		width:50%;
+	}
+	h3{
+		text-transform:center;
 	}
 }
