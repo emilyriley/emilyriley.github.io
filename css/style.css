@@ -76,7 +76,6 @@ h4{
 .education{
 	text-transform:lowercase;
 	text-align:left;
-	padding-left:100px;
 }
 .portfolioblurb{
 	padding:0px 200px 0px 200px;
@@ -104,5 +103,12 @@ video{
 }
 
 @media(max-width: 992px){
-
+	.aboutme{
+		text-align:center;
+		padding:0px 25px 5px 75px;;
+	}
+	.aboutmehead{
+		text-align:left;
+		padding:5px 0px 5px 75px;
+	}
 }
