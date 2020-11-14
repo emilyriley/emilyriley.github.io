@@ -89,7 +89,7 @@ video{
 	text-align: center;
 }
 .videocap{
-	padding-bottom:10px;
+	padding:0px 100px 10px 100px;
 	text-align: center;
 	font-size:15px;
 }
