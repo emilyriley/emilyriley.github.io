@@ -61,7 +61,7 @@ p{
 h2{
 	text-transform: uppercase;
 	text-align: center;
-	padding:0px, 0px, 0px, 200px;
+	padding:0px 0px 0px 200px;
 }
 .resume, .portfolio{
 	background-color:#d9e0e2;
@@ -71,7 +71,7 @@ h2{
 }
 h4{
 	font-size:18px;
-	padding:20px, 20px,0px, 30px;
+	padding:20px 20px 0px 30px;
 }
 .education{
 	text-transform:lowercase;
@@ -90,9 +90,9 @@ video{
 }
 .videocap{
 	text-align:left;
-	padding:10px, 200px, 20px, 0px;
+	padding:10px 200px 20px 0px;
 }
-@media(max-width: 768px;){
+@media(max-width: 768px){
 	.aboutme{
 		text-align:center;
 		padding:0px 25px 5px 50px;;
@@ -105,7 +105,7 @@ video{
 		width:700px;
 	}
 	h3{
-		text-transform:center;
+		text-align:center;
 		padding:5px 0px 0px 100px;
 	}
 	img{
@@ -116,7 +116,7 @@ video{
 	text-align: center;
 	}
 	.videocap{
-		visibility: none;
+		display: none;
 	}
 }
 
@@ -133,7 +133,7 @@ video{
 		width:800px;
 	}
 	h3{
-		text-transform:center;
+		text-align:center;
 		padding:5px 0px 0px 100px;
 	}
 	img{
@@ -144,6 +144,6 @@ video{
 	text-align: center;
 	}
 	.videocap{
-		visibility: none;
+		display: none;
 	}
 }
