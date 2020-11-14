@@ -49,7 +49,7 @@ h3{
 	padding:10px 0px 0px 200px;
 }
 
-p{
+.description{
 	text-align: left;
 	padding: 0px 100px 0px 300px;
 }
@@ -89,6 +89,7 @@ video{
 	text-align: center;
 }
 .videocap{
+	padding-bottom:10px;
 	text-align: center;
 	font-size:15px;
 }
