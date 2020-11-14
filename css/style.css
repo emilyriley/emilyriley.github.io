@@ -85,10 +85,11 @@ h4{
 video{
 	width:75%;
 	padding:30px 0px 25px 250px;
+	text-align: center;
 }
 .videocap{
 	text-align:center;
-	padding-top:10px;
+	padding:10px, 0px, 0px, 0px;
 }
 @media(max-width: 768px;){
 	.aboutme{
@@ -96,7 +97,7 @@ video{
 		padding:0px 25px 5px 50px;;
 	}
 	.aboutmehead{
-		text-align:left;
+		text-align:center;
 		padding:5px 0px 5px 50px;
 	}
 	.video{
@@ -111,7 +112,7 @@ video{
 		padding:0px 25px 5px 75px;;
 	}
 	.aboutmehead{
-		text-align:left;
+		text-align:center;
 		padding:5px 0px 5px 75px;
 	}
 	.video{
