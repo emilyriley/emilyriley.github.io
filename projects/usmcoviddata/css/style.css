@@ -1,0 +1,166 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	color: #ffffff;
+	padding-top: 50px;
+	font-size: 85px;
+	font-family: 'Bebas Neue', cursive;
+	margin-bottom: 0px;
+	font-stretch: ultra-expanded;
+}
+
+h3 {
+	text-align: center;
+	color: #ed621c;
+	font-size: 25px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	margin-top: 0px;
+}
+
+.byline {
+	text-align: center;
+	color: #9e9c9b;
+	font-style: italic;
+	font-size: 15px;
+	font-family: 'Assistant', sans-serif;
+	margin-bottom: 20px;
+}
+
+.intro {
+	text-align: center;
+	color: #ffffff;
+	margin: 10px 100px 0px 100px;
+	font-family: 'Assistant', sans-serif;
+	font-size: 20px;
+}
+
+hr {
+	border: 1px solid #ed621c;
+	width: 500px;
+	margin-top: 100px;
+	margin-bottom: 25px;
+}
+
+.intro {
+	font-size: 15px;
+}
+
+a:hover {
+	color: #9e9c9b;
+}
+
+a {
+	color: #9e9c9b;
+}
+
+h2 {
+	color: #9e9c9b;
+	padding: 20px 0px 0px 20px;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 65px;
+}
+
+p {
+	color: white;
+	font-size: 15px;
+	text-align: left;
+	margin: 0px 100px 0px 50px;
+	font-family: 'Assistant', sans-serif;
+}
+
+.colleges {
+	text-align: left;
+	padding: 40px 0px 0px 100px;
+}
+
+img {
+	width: 50%;
+	text-align: center;
+	margin: 0px 0px 10px 100px;
+}
+
+.credit {
+	margin: 25px 250px 0px 0px;
+	font-family: 'Assistant', sans-serif;
+}
+
+.stats {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 90px;
+	color: #ed621c;
+}
+
+.des {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 25px;
+	color: #9e9c9b;
+}
+
+.row {
+	padding: 50px 0px 50px 0px;
+}
+
+.colltext {
+	margin: 0px 100px 0px 100px;
+}
+
+@media(max-width: 768px) {
+	.intro {
+		text-align: center;
+		margin: 0px 0px 0px 0px;
+	}
+	p {
+		text-align: left;
+		margin: 0px 0px 0px 0px;
+	}
+	.stats {
+		font-size: 40px;
+		text-align: center;
+	}
+	iframe {
+		display: none;
+	}
+	img {
+		display: none;
+	}
+	.credit {
+		text-align: left;
+		font-size: 7px;
+	}
+	.col .row {
+		display: none;
+	}
+}
+
+@media(max-width: 992px) {
+	.intro {
+		text-align: center;
+		margin: 0px 0px 0px 0px;
+	}
+	p {
+		text-align: left;
+		margin: 0px 0px 0px 0px;
+	}
+	.stats {
+		font-size: 50px;
+		text-align: center;
+	}
+	iframe {
+		display: none;
+	}
+	img {
+		display: none;
+	}
+	.credit {
+		text-align: left;
+		font-size: 8px;
+	}
+	.col .row {
+		display: none;
+	}
+}
